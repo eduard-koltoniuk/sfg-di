@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.eduard.sfgdi.SfgDiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.162 s - in com.eduard.sfgdi.SfgDiApplicationTests
